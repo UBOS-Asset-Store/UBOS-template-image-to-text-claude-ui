@@ -273,14 +273,19 @@
                                                                         "key": "isDisabled"
                                                                     }
                                                                 ],
-                                                                "dynamicTriggerPathList": [],
+                                                                "dynamicTriggerPathList": [
+                                                                    {
+                                                                        "key": "onClick"
+                                                                    }
+                                                                ],
                                                                 "dynamicPropertyPathList": [
                                                                     {
                                                                         "key": "isDisabled"
                                                                     }
                                                                 ],
                                                                 "iconName": "duplicate",
-                                                                "iconAlign": "left"
+                                                                "iconAlign": "left",
+                                                                "onClick": "{{copyToClipboard(Custom1.message)}}"
                                                             }
                                                         ],
                                                         "minHeight": 400,
