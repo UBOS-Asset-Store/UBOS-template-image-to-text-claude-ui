@@ -378,20 +378,7 @@
                     ],
                     "deleted": false,
                     "layoutOnLoadActions": [
-                        [
-                            {
-                                "_id": "65eb07b2ea2b99e127a0b579",
-                                "id": "65eb07b2ea2b99e127a0b579",
-                                "collectionId": "65eb07b2ea2b99e127a0b578",
-                                "confirmBeforeExecute": false,
-                                "name": "myFun1",
-                                "pluginType": "JS",
-                                "jsonPathKeys": [
-                                    "() => {\n\t\t//write code here\n\t}"
-                                ],
-                                "timeoutInMillisecond": 10000
-                            }
-                        ]
+                        []
                     ],
                     "layoutOnCloseActions": [
                         []
